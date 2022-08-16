@@ -1,0 +1,27 @@
+_repo: Roger-Williams-Prophet-and-Pioneer-of-Soul-Liberty_68627
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strickland, Arthur
+    gutenberg_agent_id: '54870'
+    url: http://www.gutenberg.org/2009/agents/54870
+description: ''
+gutenberg_issued: '2022-07-28'
+identifiers:
+  gutenberg: '68627'
+language: en
+pgterms:marc904: https://archive.org/details/rogerwilliamspro01stri/page/n7
+pgterms:marc905: 20190308143934strickland
+pgterms:marc906: '1919'
+pgterms:marc907: us
+production_note: Alan, Brian Wilson, Mary Glenn Krause, MFR and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: United States :The Judson Press,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Roger Williams, Prophet and Pioneer of Soul-Liberty
+url: http://www.gutenberg.org/ebooks/68627
